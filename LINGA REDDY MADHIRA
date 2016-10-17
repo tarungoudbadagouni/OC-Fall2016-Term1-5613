@@ -1,0 +1,5 @@
+Boehm's spiral model [Boehm, 1987] IS an activity-centered life cycle model that was
+devised to address the source of weaknesses in the waterfall model, in particular, to
+accommodate infrequent change during the software development. It is based on the same
+activities as the waterfall model; however, it adds several activities such as risk management,
+reuse, and prototypmg to each activity. These extended activities are called cycles or rounds.
